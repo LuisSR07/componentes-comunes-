@@ -1,0 +1,1 @@
+esta es un footer con solución calc
